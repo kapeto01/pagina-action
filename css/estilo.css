@@ -1,0 +1,9 @@
+{margin: 0;padding: 0}
+
+#contenido{
+	width: 1200px;
+	height: 600px;
+	background: 333; color: FFF
+	margin:0.5 auto;
+	padding: 0.5
+}
